@@ -1,0 +1,68 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar-dark .navbar-brand {
+  color: black;
+}
+
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
+  color: #00000080;
+}
+
+.jumbotron {
+  background-image: url(home1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 600px;
+}
+
+.jumbotron3 {
+  background-image: url(grantapplications.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 600px;
+}
+
+.jumbotron4 {
+  background-image: url(themission.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 600px;
+}
+
+.jumbotron2 {
+  background-color: white;
+}
+
+.jumbotron h1 {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  text-outline: 3px 3px #ffffff;
+}
+
+.jumbotron3 h1 {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  text-outline: 3px 3px #ffffff;
+}
+
+.jumbotron4 h1 {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  text-outline: 3px 3px #ffffff;
+}
+
+.jumbotron2 h2 {
+  font-family: 'Roboto', sans-serif;
+  color: black;
+  margin-left: 10rem;
+  margin-right: 10rem;
+  margin-bottom: 6rem;
+  font-size: 200%;
+  font-weight: lighter;
+}
+
+.lowertext {
+  color: #00000080
+}
